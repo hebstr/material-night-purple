@@ -1,0 +1,23 @@
+{
+  "name": "material-night-purple",
+  "displayName": "Material Night Purple",
+  "description": "A dark purple theme based on Material Night Eighties",
+  "version": "1.0.0",
+  "author": "hebstr",
+  "publisher": "hebstr",
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Material Night Purple",
+        "uiTheme": "vs-dark",
+        "path": "./themes/material-night-purple.json"
+      }
+    ]
+  }
+}

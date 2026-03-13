@@ -1,0 +1,4 @@
+.git
+*.vsix
+*.bak
+build.js

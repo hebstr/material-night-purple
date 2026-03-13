@@ -5,6 +5,11 @@
   "version": "1.0.0",
   "author": "hebstr",
   "publisher": "hebstr",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://codeberg.org/hebstr/material-night-purple"
+  },
   "engines": {
     "vscode": "^1.70.0"
   },

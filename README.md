@@ -1,6 +1,6 @@
 # Material Night Purple
 
-A dark purple theme for VSCode and Positron, inspired by [Material Night Eighties](https://marketplace.visualstudio.com/items?itemName=nicefellow.material-night-eighties).
+A dark purple theme for VSCode and Positron, inspired by [Material Night Eighties](https://open-vsx.org/extension/ms-vscode/Theme-MaterialKit).
 
 ![Material Night Purple screenshot](screenshots/preview.png)
 

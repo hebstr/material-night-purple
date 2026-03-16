@@ -2,13 +2,13 @@
   "name": "material-night-purple",
   "displayName": "Material Night Purple",
   "description": "A dark purple theme based on Material Night Eighties",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "hebstr",
   "publisher": "hebstr",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://codeberg.org/hebstr/material-night-purple"
+    "url": "https://github.com/hebstr/material-night-purple"
   },
   "engines": {
     "vscode": "^1.70.0"

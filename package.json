@@ -6,6 +6,7 @@
   "author": "hebstr",
   "publisher": "hebstr",
   "license": "MIT",
+  "icon": "img/logo.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/hebstr/material-night-purple"

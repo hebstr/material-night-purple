@@ -2,7 +2,7 @@
 
 A dark purple theme for VSCode and Positron, inspired by [Material Night Eighties](https://open-vsx.org/extension/ms-vscode/Theme-MaterialKit). Includes Positron-specific styling (console, variables pane, data explorer).
 
-![Material Night Purple screenshot](screenshots/preview.png)
+![Material Night Purple screenshot](img/screenshot.png)
 
 ## Installation
 
